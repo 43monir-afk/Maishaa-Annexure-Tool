@@ -1,0 +1,6 @@
+{
+  "name": "Maishaa Annexure Tools",
+  "description": "100% Client-Side Browser-Based Annexure Image Matching & Microsoft Word DOCX Automation Tool with Photograph Container Detection and OpenXML Validation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
